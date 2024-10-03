@@ -5,4 +5,5 @@ Product Name: Name of the Game
 Version: version
 
 In Publishing Settings
-Compression Format: Disabled
+Compression Format: GZip
+Fallback 
